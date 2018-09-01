@@ -19,8 +19,8 @@
             "type": "c3"
         },
         "donate": {
-            "wechat": "",
-            "alipay": "",
+            "wechat": "https://github.com/abelHan/game-developer_by_gitbook/blob/master/assets/wechat.jpg",
+            "alipay": "https://github.com/abelHan/game-developer_by_gitbook/blob/master/assets/alipay.jpg",
             "title": "",
             "button": "赏",
             "alipayText": "支付宝",
