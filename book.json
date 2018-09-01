@@ -1,0 +1,33 @@
+{
+    "title": "game developer",
+    "description": "游戏程序员的随笔，感想",
+    "author": "zhangjikai",
+    "output.name": "site",
+    "language": "zh-hans",
+    "root": ".",
+    "plugins": [
+        "splitter",
+        "graph",
+        "chart",
+        "donate",
+        "copy-code-button",
+        "disqus"
+
+    ],
+    "pluginsConfig": {
+        "chart": {
+            "type": "c3"
+        },
+        "donate": {
+            "wechat": "",
+            "alipay": "",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝",
+            "wechatText": "微信"
+        },
+        "disqus": {
+            "shortName": "gitbookuse"
+        }
+    }
+}
